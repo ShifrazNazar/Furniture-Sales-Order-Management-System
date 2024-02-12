@@ -1,0 +1,11 @@
+90420332,FREKVENS,Bar furniture,265,No old price,Nicholai Wiig Hansen,approved,work done,lee
+9333523,NORDVIKEN / NORDVIKEN,Bar furniture,2095,No old price,Francis Cayouette,approved,work done,Bob
+59099136,BRIMNES,Beds,795,No old price,K Hagberg/M Hagberg/IKEA of Sweden,approved,in progress,lee
+40395245,NEIDEN,Beds,99,No old price,Jon Karlsson,approved,work done,Alan
+69277307,LEIRVIK,Beds,1195,No old price,IKEA of Sweden/Carina Bengs,unapproved,in progress,Bob
+450347,KOLBJÃ–RN,Bookcases & shelving units,345,No old price,IKEA of Sweden,unapproved,in progress,Alan
+69297287,JONAXEL,Bookcases & shelving units,375,SR 437,IKEA of Sweden,approved,work done,Bob
+246078,JANINGE,Chairs,225,No old price,John/Jonas/Petrus/Paul/Caroline,approved,work done,lee
+272656,BERNHARD,Chairs,745,No old price,Ola Wihlborg,unapproved,in progress,Alan
+125123,ONYC,Chair,155,no old price,ALENX,approved,in progress,lee
+

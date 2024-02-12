@@ -1,0 +1,9 @@
+admin,123,Administrator
+officer,123,Officer
+james,1234,Administrator
+alex,1234,Administrator
+salesperson,123,Salesperson
+lee,123,Salesperson
+alan,123,Salesperson
+bob2,123,Salesperson
+mappa,123,Officer
